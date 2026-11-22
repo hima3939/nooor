@@ -1,0 +1,67 @@
+   ▲ Next.js 15.5.29
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.136:3000
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · serverActions
+
+ ✓ Starting...
+ ✓ Ready in 5s
+ ○ Compiling / ...
+ ✓ Compiled / in 4.8s (895 modules)
+ GET / 200 in 2562ms
+ ○ Compiling /products ...
+ ✓ Compiled /products in 1757ms (924 modules)
+ GET /products 200 in 2448ms
+ ○ Compiling /admin/login ...
+ ✓ Compiled /admin/login in 1706ms (937 modules)
+ GET /admin/login 200 in 2562ms
+ ○ Compiling /search ...
+ ✓ Compiled /search in 723ms (939 modules)
+ GET /search?category=electronics 200 in 1397ms
+ ○ Compiling /cart ...
+ ✓ Compiled /cart in 866ms (949 modules)
+ GET /cart 200 in 1350ms
+ GET /products 200 in 640ms
+ GET / 200 in 1890ms
+ GET / 200 in 797ms
+ GET / 200 in 908ms
+ GET / 200 in 1484ms
+ ○ Compiling /icon.svg ...
+ ✓ Compiled /icon.svg in 1457ms (589 modules)
+ GET /icon.svg?adac98875fcf6b65 200 in 1696ms
+ ○ Compiling /admin ...
+ ✓ Compiled /admin in 2s (993 modules)
+ ○ Compiling /admin/login ...
+ ✓ Compiled /admin/login in 830ms (653 modules)
+ GET /admin 307 in 4479ms
+ GET / 200 in 2570ms
+ GET /admin/login 200 in 1395ms
+ GET / 200 in 2804ms
+ GET /icon.svg?adac98875fcf6b65 200 in 78ms
+ ✓ Compiled in 1315ms (999 modules)
+ GET /admin/login 200 in 526ms
+ GET / 200 in 852ms
+ ✓ Compiled in 682ms (346 modules)
+ ✓ Compiled in 841ms (346 modules)
+ GET /admin/login 200 in 1228ms
+ GET /admin/login 200 in 299ms
+ GET / 200 in 1508ms
+ GET / 200 in 594ms
+ ✓ Compiled in 600ms (346 modules)
+ GET /admin/login 200 in 401ms
+ GET / 200 in 640ms
+ GET /admin 200 in 557ms
+ POST /admin/login 303 in 929ms
+ GET / 200 in 1054ms
+ ○ Compiling /products ...
+ ✓ Compiled /products in 557ms (673 modules)
+ GET /products 200 in 1475ms
+ GET /admin 200 in 1357ms
+ ○ Compiling /cart ...
+ ✓ Compiled /cart in 868ms (680 modules)
+ GET /cart 200 in 1407ms
+ GET / 200 in 2509ms
+ GET /admin 200 in 725ms
+ GET / 200 in 748ms
+ GET / 200 in 1625ms
